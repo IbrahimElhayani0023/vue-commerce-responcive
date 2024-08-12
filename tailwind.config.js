@@ -22,7 +22,7 @@ export default {
         'roboto': ['Roboto', 'sans-serif'],
       },
       colors: {
-        'primary': '#FD3D57',
+        'primary': '#3300d1',
         'secondary': '#0F172A',
       }
     },
